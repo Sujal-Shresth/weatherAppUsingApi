@@ -142,7 +142,7 @@ h2 {
     }
 
     50% {
-        transform: translateY(10px);
+        transform: translateY(-10px);
     }
 
     100% {
