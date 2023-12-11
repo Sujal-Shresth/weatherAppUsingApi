@@ -89,7 +89,6 @@ h2 {
 #logo {
     height: 25vh;
     width: 25vh;
-    margin-left: 1rem;
 }
 
 #intro {
@@ -195,4 +194,5 @@ h2 {
         font-size: 0.75rem;
         width: 150px;
     }
+    
 }
