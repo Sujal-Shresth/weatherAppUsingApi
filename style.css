@@ -32,7 +32,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    min-height: 70vh;
+    min-height: 60vh;
     justify-content: space-around;
 }
 
@@ -142,7 +142,7 @@ h2 {
     }
 
     50% {
-        transform: translateY(-10px);
+        transform: translateY(5px);
     }
 
     100% {
